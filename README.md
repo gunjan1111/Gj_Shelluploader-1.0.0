@@ -3,7 +3,7 @@ Extension helps hacker to upload shell/files in Magento
 
 Dependency: Admin Panel Credentials(To install extension.).
 
-As this extension is made for destructive usage
+As this extension is made for destructive usage(As if we dont want, site owner to know our extension is installed.).
 
 Extension wont be found on admin > system > configuration > advanced > disable modules output(installed modules list even if its installed.).
 
