@@ -1,5 +1,5 @@
 # Gj_Shelluploader-1.0.0
-Extension helps hacker to upload shell/files in Magento
+Extension helps hacker to upload shell/files in Magento(Tested on Magento CE 1.9.x.x.).
 
 Dependency: Admin Panel Credentials(To install extension.).
 
