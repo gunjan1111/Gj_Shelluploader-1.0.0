@@ -11,8 +11,10 @@ Even if on Magento connect manager or downloader you can find our extension if y
 you can edit magento-root/downloader/Maged/Model/Connect.php there find function getAllInstalledPackages()
 just paste below code at the last & before return statement
 
+```php
 if(array_key_exists('Gj_Shelluploader',$packages['community']))
 { unset($packages['community']['Gj_Shelluploader']); }
+```
 
 To Upload shell/files, after installing extension go to yoursiteurl/index.php/shelluploader or directely yoursiteurl/shelluploader
 
